@@ -1,6 +1,6 @@
 {
     "name": "bluefalcon26/yokogawa_assessment",
-    "description": "A sample package created for a developer interview technical assessment bwith Yokogawa Electric Corporation.",
+    "description": "A sample package created for a developer interview technical assessment with Yokogawa Electric Corporation.",
     "type": "library",
     "license": "GPL-3.0-only",
     "autoload": {
